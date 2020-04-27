@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 LABEL maintainer="Jason Rivers <jason@jasonrivers.co.uk>"
 
 ENV NAGIOS_HOME            /opt/nagios
